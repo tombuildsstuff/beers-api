@@ -1,8 +1,8 @@
 # Beers API
-## for use in workshops
+for use in workshops
 
 # Available Endpoints
-*GET* /beers/all
+**GET** */beers/all*
 ```
 *Sample Response*
 [
