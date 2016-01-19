@@ -2,7 +2,7 @@
 for use in workshops
 
 # Available Endpoints
-**GET** */beers/all*
+**HTTP GET */beers/all***
 ```
 *Sample Response*
 [
